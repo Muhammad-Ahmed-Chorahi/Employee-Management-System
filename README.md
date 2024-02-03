@@ -9,7 +9,6 @@ This is a simple Employee Management System implemented in C++. It allows users 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
